@@ -8,7 +8,7 @@ data:
 23 5 2\
 .9 2.4 6
 
-c++ main.cc
+c++ main.cpp
 
 ./a.out data
 
